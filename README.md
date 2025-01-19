@@ -197,7 +197,7 @@ curl -X GET http://localhost:8000/api/users/
 
 2. **User Register**
 
-    ![User Register](User-Management-System/screenshots/User_Register.png)
+    ![User Register](User-Management-System/screenshots/User_Registraton.png)
     - This screenshot shows the User Registraton.
 
     
