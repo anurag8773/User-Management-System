@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+}
+
+.sidebar {
+  width: 200px;
+  padding: 20px;
+}
+
+.user-node {
+  background-color: lightblue;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
