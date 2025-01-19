@@ -192,12 +192,12 @@ curl -X GET http://localhost:8000/api/users/
 
 1. **Home**
 
-    ![Home](screenshots/home.png)
+    ![Home](User-Management-System/screenshots/home.png)
     - This screenshot shows the Home Page.
 
 2. **User Register**
 
-    ![User Register](screenshots/User_Register.png)
+    ![User Register](User-Management-System/screenshots/User_Register.png)
     - This screenshot shows the User Registraton.
 
     
